@@ -1,10 +1,14 @@
 ## Codeshare
-**Social media app** 
+**Online Project idea System** 
 
-**i have made this dummy social media app. in this app i have added newsfeed activity, profile activity or upload activity. also added some static design for the User interface.
-in the backend part i have used firebase.**
+**In our project, we will make one system in which final year student can upload the video of the project also they can add definition or a Github Link of the project in the description or upload the video of the project. also they can upload the different languages code and and download the code.
+In that other students get idea how exciting systems are working or what more update is needed. after getting some idea, they can develop more implemented features in the future project. and they can think more productive ideas that are useful for others.**
 
-**Small demo of CodeShare**
-![Codeshare](https://user-images.githubusercontent.com/42887563/89320833-a71c1100-d69f-11ea-8498-b84af7be8a49.gif)
+**In this system everyone can registered who have a programming skill. So they can upload their projects or code in this system. By using this uploaded code or videos other people can learn from it.**
+
+ 
+
+
+
 
 
