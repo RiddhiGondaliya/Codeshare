@@ -1,9 +1,8 @@
 ## Codeshare
 **Online Project idea System** 
+**In this app, final year students can submit the project's video as well as provide a definition or a Github link to the project in the description or upload the project's video. They may also upload and download the various language codes. Furthermore, other pupils gain an understanding of how exciting systems function and what further updates are required. They can design more implemented features in the future project if they have some ideas. and they can generate more effective ideas that will benefit others.**
 
-**in this app final year student can upload the video of the project also they can add definition or a Github Link of the project in the description or upload the video of the project. also they can upload the different languages code and and download the code. moreover other students get idea how exciting systems are working or what more update is needed. after getting some idea, they can develop more implemented features in the future project. and they can think more productive ideas that are useful for others.**
-
-**In this app everyone can register who have a programming skill. So they can upload their projects or code in this app. By using this uploaded code or videos other people can learn from it.**
+**Anyone with programming skills can register for this app. As a result, they may use this app to upload their projects or code. Other people can learn from this submitted code or videos.**
 
  
 
